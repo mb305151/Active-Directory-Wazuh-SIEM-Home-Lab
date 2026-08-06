@@ -118,10 +118,11 @@ Example rule:
 ### 2️⃣ Defense Evasion – Log Clearing
 * **Technique:** Clearing Windows Event Logs on the workstation and domain controller.
 * **Commands used:**
-  ```powershell
-  Clear-EventLog -LogName Security
-  Clear-EventLog -LogName System
+```powershell
+Clear-EventLog -LogName Security
+Clear-EventLog -LogName System
 ```
+
 
 **Observed events:**
 
