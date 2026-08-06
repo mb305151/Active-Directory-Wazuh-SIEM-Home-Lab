@@ -161,7 +161,7 @@ Clear-EventLog -LogName System
 ## 🖥️ Example Dashboard Alert
 
 ```text
-Rule: 100110
+Rule: 100002
 Level: 15 (Critical)
 Technique: T1070 - Indicator Removal on Host
 Host: WIN10-WORKSTATION
