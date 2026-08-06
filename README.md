@@ -227,11 +227,7 @@ Through this project I gained hands-on experience with:
 * Simulate **Kerberoasting** and **Pass-the-Hash** attacks
 * Add **email / Discord / Slack alerting** for critical events
 
----
 
-## 📜 Disclaimer
-
-This project was created for **educational and defensive security purposes only**. All attack simulations were performed in an isolated virtual lab environment owned and controlled by the author.
 
 ---
 
@@ -239,6 +235,6 @@ This project was created for **educational and defensive security purposes only*
 
 **Mateusz Bennek**
 
-* 🎓 Teleinformatics Student
+* 🎓 Cybersecurity Student
 * 🛡️ Junior System / Network Administration Enthusiast
-* ☁️ Interested in **Linux, Networking, Active Directory, and SIEM/SOC technologies**
+* ☁️ Interested in **Linux, Networking, Active Directory, Sec technologies**
