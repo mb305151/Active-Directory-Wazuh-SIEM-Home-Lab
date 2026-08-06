@@ -83,7 +83,7 @@ Example rule:
 
 ```xml
 <group name="windows,attack,t1070,">
-  <rule id="100110" level="15">
+  <rule id="100002" level="15">
     <if_group>windows</if_group>
     <field name="win.system.eventID">1102|104</field>
     <description>Critical: Windows event logs were cleared</description>
